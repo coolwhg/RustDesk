@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["gd-analysis.work"];
-pub const RS_PUB_KEY: &str = "sc1UiLJAX8vPBpftcWuJeEaqyl6wRT8hZL59Wc9EaEc";
+pub const RS_PUB_KEY: &str = "IhWEk8M3c3t9jsfYcHy9PvNYGLOWv3lzXFrEozBRO9U=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
